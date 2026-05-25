@@ -13,7 +13,7 @@ Telegram-бот на **aiogram 3** для персонализированных
 ## Установка
 
 ```bash
-cd C:\Users\nikan\Projects\love-telegram-bot
+cd Projects\love-telegram-bot
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
